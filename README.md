@@ -1,3 +1,3 @@
 # Rocketseat
 
-Curso Fullstack
+Curso Fullstack Web
